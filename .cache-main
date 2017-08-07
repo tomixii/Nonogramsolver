@@ -1,0 +1,242 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre1.8.0_112\lib\resources.jar;C:\Program Files\Java\jre1.8.0_112\lib\rt.jar;C:\Program Files\Java\jre1.8.0_112\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_112\lib\jce.jar;C:\Program Files\Java\jre1.8.0_112\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_112\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_112\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> D:\Programs\Eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+36 items
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Block.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board$$anonfun$solve$1.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board$$anonfun$solve$2.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board$$anonfun$solve$3.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board$$anonfun$solve$4.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board$.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Cell.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Cell.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Column$$anonfun$1.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Column$$anonfun$2.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Column$$anonfun$updateRanges$1.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Column$$anonfun$updateRanges$2.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Column.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$1.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$2.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$3.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$4.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$5$$anonfun$apply$5.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$5.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$6$$anonfun$apply$1.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$6.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$7$$anonfun$apply$2.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$7.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$1.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$2.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$3$$anonfun$apply$3.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$3.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$4$$anonfun$apply$4.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$4.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Row$$anonfun$1.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Row$$anonfun$2.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Row$$anonfun$updateRanges$1.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Row$$anonfun$updateRanges$2.class
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Row.class
+binary dependencies:
+13 items
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala -> D:\Programs\Eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> D:\Programs\Eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Cell.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Cell.scala -> D:\Programs\Eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> D:\Programs\Eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\core.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> D:\Programs\Eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> C:\Program Files\Java\jre1.8.0_112\lib\rt.jar
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> D:\Programs\Eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+direct source dependencies:
+14 items
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Cell.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Cell.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Cell.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+36 items
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala -> Block
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> Board
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> Board$
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> Board$$anonfun$solve$1
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> Board$$anonfun$solve$2
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> Board$$anonfun$solve$3
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> Board$$anonfun$solve$4
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Cell.scala -> Cell
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> Column
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> Column$$anonfun$1
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> Column$$anonfun$2
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> Column$$anonfun$updateRanges$1
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> Column$$anonfun$updateRanges$2
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$draw$1
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$draw$2
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$draw$3
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$draw$4
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$draw$5
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$draw$5$$anonfun$apply$5
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$draw$6
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$draw$6$$anonfun$apply$1
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$draw$7
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$draw$7$$anonfun$apply$2
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$setup$1
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$setup$2
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$setup$3
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$setup$3$$anonfun$apply$3
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$setup$4
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> Nonogramsolver$$anonfun$setup$4$$anonfun$apply$4
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> Row
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> Row$$anonfun$1
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> Row$$anonfun$2
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> Row$$anonfun$updateRanges$1
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> Row$$anonfun$updateRanges$2
+used names:
+0 items
+product stamps:
+36 items
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Block.class -> lastModified(1502135470483)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board$$anonfun$solve$1.class -> lastModified(1502135470537)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board$$anonfun$solve$2.class -> lastModified(1502135470542)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board$$anonfun$solve$3.class -> lastModified(1502135470545)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board$$anonfun$solve$4.class -> lastModified(1502135470549)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board$.class -> lastModified(1502135470527)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Board.class -> lastModified(1502135470496)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Cell.class -> lastModified(1502135470558)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Column$$anonfun$1.class -> lastModified(1502135470582)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Column$$anonfun$2.class -> lastModified(1502135470586)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Column$$anonfun$updateRanges$1.class -> lastModified(1502135470589)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Column$$anonfun$updateRanges$2.class -> lastModified(1502135470595)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Column.class -> lastModified(1502135470577)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$1.class -> lastModified(1502136008106)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$2.class -> lastModified(1502136008113)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$3.class -> lastModified(1502136008118)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$4.class -> lastModified(1502136008122)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$5$$anonfun$apply$5.class -> lastModified(1502136008132)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$5.class -> lastModified(1502136008127)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$6$$anonfun$apply$1.class -> lastModified(1502136008148)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$6.class -> lastModified(1502136008137)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$7$$anonfun$apply$2.class -> lastModified(1502136008159)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$draw$7.class -> lastModified(1502136008152)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$1.class -> lastModified(1502136008163)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$2.class -> lastModified(1502136008167)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$3$$anonfun$apply$3.class -> lastModified(1502136008175)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$3.class -> lastModified(1502136008170)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$4$$anonfun$apply$4.class -> lastModified(1502136008183)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$$anonfun$setup$4.class -> lastModified(1502136008179)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver$.class -> lastModified(1502136008092)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Nonogramsolver.class -> lastModified(1502136008086)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Row$$anonfun$1.class -> lastModified(1502135470694)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Row$$anonfun$2.class -> lastModified(1502135470697)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Row$$anonfun$updateRanges$1.class -> lastModified(1502135470700)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Row$$anonfun$updateRanges$2.class -> lastModified(1502135470705)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\bin\Row.class -> lastModified(1502135470690)
+source stamps:
+6 items
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala -> hash(585b75b4b143dfdee496a8efc8fee82268a4c477)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> hash(c273283d71f5a88415b93c31c2e6b881cda11357)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Cell.scala -> hash(d468653fab7dbf167a247b324bee436737501bae)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> hash(a80260ae41bd9400e3be6c4626a5cead4fbc9083)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> hash(5e756d735a865ad06909168d061be97822dcd73a)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> hash(284c1e8fc1291aa9f72e8095bc4e302daba64b6e)
+binary stamps:
+3 items
+C:\Program Files\Java\jre1.8.0_112\lib\rt.jar -> lastModified(1478296512940)
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\core.jar -> lastModified(1502135340463)
+D:\Programs\Eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar -> lastModified(1462357090000)
+class names:
+3 items
+C:\Program Files\Java\jre1.8.0_112\lib\rt.jar -> java.lang.Runnable
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\core.jar -> processing.core.PConstants
+D:\Programs\Eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar -> scala.Predef$
+internal apis:
+6 items
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCfpTuBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAFQmxvY2t1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AU3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QAA0FueXNxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFN0AAVzY2FsYXEAfgBadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV2+QDNfdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAMkM6XFVzZXJzXFRvbWlcRHJvcGJveFxXb3Jrc3BhY2VcTm9ub2dyYW1zb2x2ZXJcYmludAAyQzpcVXNlcnNcVG9taVxEcm9wYm94XFdvcmtzcGFjZVxOb25vZ3JhbXNvbHZlclxzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFFhbdbSxQ9/e5Jao78j+6CJopMR3
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDpU4TfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAFQm9hcmR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdvkAzX3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ADJDOlxVc2Vyc1xUb21pXERyb3Bib3hcV29ya3NwYWNlXE5vbm9ncmFtc29sdmVyXGJpbnQAMkM6XFVzZXJzXFRvbWlcRHJvcGJveFxXb3Jrc3BhY2VcTm9ub2dyYW1zb2x2ZXJcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABTCcyg9cfWohBW5PDHC5riBzaETVw==
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Cell.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBeEexBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAEQ2VsbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA2dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBTdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBUc3EAfgBHdAADQW55c3EAfgBLc3EAfgBOdXEAfgBRAAAAAnNxAH4AU3QABXNjYWxhcQB+AFp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXb5AM191cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAyQzpcVXNlcnNcVG9taVxEcm9wYm94XFdvcmtzcGFjZVxOb25vZ3JhbXNvbHZlclxiaW50ADJDOlxVc2Vyc1xUb21pXERyb3Bib3hcV29ya3NwYWNlXE5vbm9ncmFtc29sdmVyXHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU1GhlP6t9vxZ6JHsyS+5DZzdQG64=
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAEntHzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAGQ29sdW1udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdvkAzX3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ADJDOlxVc2Vyc1xUb21pXERyb3Bib3hcV29ya3NwYWNlXE5vbm9ncmFtc29sdmVyXGJpbnQAMkM6XFVzZXJzXFRvbWlcRHJvcGJveFxXb3Jrc3BhY2VcTm9ub2dyYW1zb2x2ZXJcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABSoAmCuQb2UAOO+bEYmpc6tT7yQgw==
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAi/IHVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOTm9ub2dyYW1zb2x2ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ALgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA1c3EAfgAuAXVxAH4AEAAAAABwc3EAfgAuAXVxAH4AEAAAAABwc3EAfgAuAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANHQAB1BBcHBsZXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQACnByb2Nlc3NpbmdzcQB+AE10AARjb3Jlc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AE5zcQB+AEF0AApQQ29uc3RhbnRzcQB+AEdzcQB+AEF0AAZPYmplY3RzcQB+AEVzcQB+AEh1cQB+AEsAAAADc3EAfgBNdAAEamF2YXNxAH4ATXQABGxhbmdxAH4AVHNxAH4AQXQAA0FueXNxAH4ARXNxAH4ASHVxAH4ASwAAAAJzcQB+AE10AAVzY2FsYXEAfgBUcHBzcQB+ABJxAH4AIHVxAH4AIQAAAABzcQB+ACMAdAAOTm9ub2dyYW1zb2x2ZXJ1cQB+ACYAAAAAfnEAfgAodAAGTW9kdWxldXEAfgAsAAAAAHNxAH4ALgFxAH4ANnBzcQB+AC4Bc3EAfgA4c3EAfgAuAXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNxAH4AQXQABFVuaXRzcQB+AEVzcQB+AEh1cQB+AEsAAAACc3EAfgBNcQB+AGZxAH4AVHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAcTAADdHBlcQB+AHV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AEJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ADRzcQB+AEF0AAVBcnJheXEAfgB+dXEAfgA/AAAAAXNxAH4AQXQABlN0cmluZ3NxAH4ARXNxAH4ASHVxAH4ASwAAAANzcQB+AE1xAH4AXXNxAH4ATXEAfgBfcQB+AFRwc3EAfgAuAXVxAH4AEAAAAABwc3EAfgAuAXVxAH4APwAAAAJzcQB+AEFxAH4AWHEAfgCYc3EAfgBBcQB+AGFxAH4AfnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV2+SGt2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAMkM6XFVzZXJzXFRvbWlcRHJvcGJveFxXb3Jrc3BhY2VcTm9ub2dyYW1zb2x2ZXJcYmludAAyQzpcVXNlcnNcVG9taVxEcm9wYm94XFdvcmtzcGFjZVxOb25vZ3JhbXNvbHZlclxzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFF51bXNahlrQaQkWjQYb6Xgi3Nc6
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB3p7VSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAADUm93dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdvkAzX3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ADJDOlxVc2Vyc1xUb21pXERyb3Bib3hcV29ya3NwYWNlXE5vbm9ncmFtc29sdmVyXGJpbnQAMkM6XFVzZXJzXFRvbWlcRHJvcGJveFxXb3Jrc3BhY2VcTm9ub2dyYW1zb2x2ZXJcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABQoTB6PwSkaqfcugJW8TjAtq6ZLbg==
+external apis:
+0 items
+source infos:
+6 items
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Block.scala -> 
+AAAAAAAAAAA=
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Board.scala -> 
+AAAAAAAAAAA=
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Cell.scala -> 
+AAAAAAAAAAA=
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Column.scala -> 
+AAAAAAAAAAA=
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Nonogramsolver.scala -> 
+AAAAAAAAAAA=
+C:\Users\Tomi\Dropbox\Workspace\Nonogramsolver\src\Row.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXb5AM191cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkM6XFVzZXJzXFRvbWlcRHJvcGJveFxXb3Jrc3BhY2VcTm9ub2dyYW1zb2x2ZXJcYmludAAyQzpcVXNlcnNcVG9taVxEcm9wYm94XFdvcmtzcGFjZVxOb25vZ3JhbXNvbHZlclxzcmM=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXb5AdPp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkM6XFVzZXJzXFRvbWlcRHJvcGJveFxXb3Jrc3BhY2VcTm9ub2dyYW1zb2x2ZXJcYmludAAyQzpcVXNlcnNcVG9taVxEcm9wYm94XFdvcmtzcGFjZVxOb25vZ3JhbXNvbHZlclxzcmM=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXb5Ia3Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkM6XFVzZXJzXFRvbWlcRHJvcGJveFxXb3Jrc3BhY2VcTm9ub2dyYW1zb2x2ZXJcYmludAAyQzpcVXNlcnNcVG9taVxEcm9wYm94XFdvcmtzcGFjZVxOb25vZ3JhbXNvbHZlclxzcmM=

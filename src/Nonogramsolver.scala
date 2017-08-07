@@ -3,7 +3,7 @@ import java.awt.event.KeyEvent._
 
 class Nonogramsolver extends PApplet {
   var valueoffset = 0
-
+//testikommenttiiiii
   override def settings = {
     this.size(Board.width * 20 + 120, Board.height * 20 + 120)
   }
