@@ -26,9 +26,9 @@ object Board {
   def add() = {
     if (newValue.length > 0) {
       if (activerow >= 0)
-        rows(activerow).blocks(activeindex) = new Block(newValue.toInt, Array[Range]())
+        rows(activerow).blocks(activeindex) = new Block(newValue.toInt)
       else
-        columns(activecolumn).blocks(activeindex) = new Block(newValue.toInt, Array[Range]())
+        columns(activecolumn).blocks(activeindex) = new Block(newValue.toInt)
       newValue = ""
       activeindex += 1
     }

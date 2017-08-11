@@ -10,33 +10,30 @@ class Row(size: Int) {
     isActive = Board.activerow == Board.rows.indexOf(this)
     if(blocks.isEmpty){
       if(this.isActive)
-        blocks += new Block(0, Array[Range]())
+        blocks += new Block(0)
     }else{  
       if (blocks.last.length <= 0 && !this.isActive)
         blocks = blocks.dropRight(1)
       else if (blocks.last.length > 0 && this.isActive)
-        blocks = (blocks.reverse.+:(new Block(0, Array[Range]()))).reverse
+        blocks = (blocks.reverse.+:(new Block(0))).reverse
     }
   }
   
   def updateRanges() = {
     var indexes = contents.zipWithIndex.filter(!_._1.state.isDefined).map(_._2)
-    println(contents.map(_.state).mkString(","))
-    println(indexes.mkString(","))
+//    println(contents.map(_.state).mkString(","))
+//    println(indexes.mkString(","))
     var temp = Buffer[Int]()
     for(ind <- indexes){
       if(!temp.isEmpty){
-    	  if(temp.last == ind - 1)
-    		  temp += ind
-  		  else{
-  			  ranges += temp.head to temp.last
-  			  temp.clear()  		    
+    	  if(temp.last != ind - 1){
+    		  ranges += temp.head to temp.last
+    		  temp.clear()  			  
   		  }
-      }else{
-        temp += ind
       }
+      temp += ind
     }
-      
+    ranges += temp.head to temp.last  
 //    var temp = process.zipWithIndex.span(!_._1.state.isDefined)
 //    
 //    println(temp._1.size)
