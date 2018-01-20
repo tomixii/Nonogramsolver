@@ -37,13 +37,13 @@ class Column(size: Int) {
   }
   
   def blockPlaces() = {
-    for(blockIndex <- 0 until blocks.size){
-      blocks(blockIndex).placeLeft = ranges.find(_.size >= blocks(blockIndex).length)
+    for(block <- blocks){
+      block.placeLeft = ranges.find(_.size >= block.length)
       
     }
     
-    for(blockIndex <- blocks.size until 0 by -1){
-      blocks(blockIndex).placeRight = ranges.reverse.find(_.size >= blocks(blockIndex).length)
+    for(block <- blocks.reverse){
+      block.placeRight = ranges.reverse.find(_.size >= block.length)
     }
   }
   

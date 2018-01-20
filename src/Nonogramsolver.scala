@@ -1,23 +1,34 @@
 import processing.core._
 import java.awt.event.KeyEvent._
+import scala.io.Source
+import java.io._
 
 class Nonogramsolver extends PApplet {
   var valueoffset = 0
-//testikommenttiiiii
+  var debug = true
   override def settings = {
     this.size(Board.width * 20 + 120, Board.height * 20 + 120)
   }
 
   override def setup = {
+    if (debug) {
+      println("LOAD")
+      var data = ""
+      for (line <- Source.fromFile("load.txt").getLines()) // get info from savefile
+        data = data + line + "\n"
+      if (!data.isEmpty()){
+    	  println(data)  
+    	  Load.nonogram(new StringReader(data), 1)
+        
+      }
+    } else {
+      for (i <- 0 until Board.width) {
+        Board.columns += new Column(Board.height)
+      }
 
-    for (i <- 0 until Board.width) {
-      Board.columns += new Column(Board.height)
-
-    }
-
-    for (i <- 0 until Board.height) {
-      Board.rows += new Row(Board.width)
-
+      for (i <- 0 until Board.height) {
+        Board.rows += new Row(Board.width)
+      }
     }
 
     for (row <- Board.rows)
@@ -25,8 +36,9 @@ class Nonogramsolver extends PApplet {
         row.contents += new Cell(104 + row.contents.size * 20, 104 + 20 * Board.rows.indexOf(row))
 
     for (col <- Board.columns)
-      for(row <- Board.rows)
-        col.contents += row.contents(Board.columns.indexOf(col)) 
+      for (row <- Board.rows)
+        col.contents += row.contents(Board.columns.indexOf(col))
+
   }
 
   override def draw = {
@@ -47,19 +59,33 @@ class Nonogramsolver extends PApplet {
     }
 
     noFill()
+    stroke(0)
     rect(10, 30, 80, 40)
     textSize(24)
     text("SOLVE", 15, 60)
     textSize(14)
+    for (i <- 0 to Board.width) {
+      if (i % 5 == 0) this.strokeWeight(2) else this.strokeWeight(1)
+      line(100 + 20 * i, 0, 100 + 20 * i, Board.height * 20 + 100)
+    }
+
+    for (i <- 0 to Board.height) {
+      if (i % 5 == 0) this.strokeWeight(2) else this.strokeWeight(1)
+      line(0, 100 + 20 * i, Board.width * 20 + 100, 100 + 20 * i)
+    }
     for (row <- Board.rows) {
       for (block_i <- 0 until row.blocks.size) {
         var block = row.blocks(block_i)
         if (block.length > 0) {
           valueoffset = if (block.length.toString.length() == 2) 2 else 6
-          text(block.length, 100 - row.blocks.size * 20 + block_i * 20 + valueoffset, 115 + 20 * Board.rows.indexOf(row))
+          if (!(!Board.newValue.isEmpty && row.blocks(block_i).isActive))
+            text(block.length, 100 - row.blocks.size * 20 + block_i * 20 + valueoffset, 115 + 20 * Board.rows.indexOf(row))
         }
         if (row.isActive) {
           if (block_i == Board.activeindex) {
+            stroke(255, 0, 0)
+            valueoffset = if (Board.newValue.toString.length() == 2) 2 else 6
+            text(Board.newValue, 100 - row.blocks.size * 20 + block_i * 20 + valueoffset, 115 + 20 * Board.rows.indexOf(row))
             rect(100 - row.blocks.size * 20 + block_i * 20, 100 + 20 * Board.rows.indexOf(row), 20, 20)
           }
         }
@@ -71,29 +97,23 @@ class Nonogramsolver extends PApplet {
         var block = col.blocks(block_i)
         if (block.length > 0) {
           valueoffset = if (block.length.toString.length() == 2) 2 else 6
-          text(block.length, 100 + 20 * Board.columns.indexOf(col) + valueoffset, 115 - col.blocks.size * 20 + block_i * 20)
+          if (!(!Board.newValue.isEmpty && col.blocks(block_i).isActive))
+            text(block.length, 100 + 20 * Board.columns.indexOf(col) + valueoffset, 115 - col.blocks.size * 20 + block_i * 20)
         }
         if (col.isActive) {
           if (block_i == Board.activeindex) {
+            stroke(255, 0, 0)
+            valueoffset = if (Board.newValue.toString.length() == 2) 2 else 6
+            text(Board.newValue, 100 + 20 * Board.columns.indexOf(col) + valueoffset, 115 - col.blocks.size * 20 + block_i * 20)
             rect(100 + 20 * Board.columns.indexOf(col), 100 - col.blocks.size * 20 + block_i * 20, 20, 20)
           }
         }
       }
     }
 
-    for (i <- 0 to Board.width) {
-      if (i % 5 == 0) this.strokeWeight(2) else this.strokeWeight(1)
-      line(100 + 20 * i, 0, 100 + 20 * i, Board.height * 20 + 100)
-    }
-
-    for (i <- 0 to Board.height) {
-      if (i % 5 == 0) this.strokeWeight(2) else this.strokeWeight(1)
-      line(0, 100 + 20 * i, Board.width * 20 + 100, 100 + 20 * i)
-    }
-
   }
 
-  override def keyPressed = {
+  override def keyPressed() = {
     if (keyCode == VK_UP)
       Board.up
     else if (keyCode == VK_DOWN)
@@ -104,8 +124,8 @@ class Nonogramsolver extends PApplet {
       Board.right
     else if (key >= '0' && key <= '9')
       Board.write(key)
-    //    else if(keyCode == BACKSPACE)
-    //      Board.del
+    else if (key == '\b')
+      Board.del
     else if (key == '\n')
       Board.add
   }
